@@ -9,4 +9,6 @@
 
  Wrote a function designed to ask a series of questions to the user and then log that information inside of variables
 
+ wrote a function deisgned to call on those variables and then add characters based on the answers
+
  
